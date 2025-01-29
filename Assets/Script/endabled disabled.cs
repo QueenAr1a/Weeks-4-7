@@ -36,7 +36,7 @@ public class endableddisabled : MonoBehaviour
          if (Input.GetKey(KeyCode.Space))
           
         {
-            //if (audiosource.isPlaying == false)
+            //if (audiosource.isPlaying == false) 
             //{
             //    //audiosource.Play();
 
